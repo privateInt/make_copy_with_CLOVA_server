@@ -66,8 +66,8 @@ def make_info_dict():
 
     body_dict["review"] = {"host":'host7',
     "api_key":'api_key7',
-    "api_key_primary_val":'lbAIyG9RaW7AEEqE5Rl1ZqJPozLr3jJeXNhS5k1b',
-    "request_id":'620e8d0f267547e88e87fbd877f200be'}
+    "api_key_primary_val":'api_key_primary_val7',
+    "request_id":'request_id7'}
 
     body_dict["CallForAction"] = {"host":'host8',
     "api_key":'api_key8',
