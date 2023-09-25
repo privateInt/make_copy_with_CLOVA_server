@@ -19,7 +19,9 @@ flask, docker로 제작되었습니다.
  - port: 8066
  - endpoint: NCopy
  - Request Responses example
+ - 
 <Response [200]>
+
 input: json{
 
 "type": "head" or "body",
